@@ -1,6 +1,7 @@
 0.    mkdir foldername(command that makes folder/directory)
 
-1.    npm init -y(makes package.json file)
+1.    npm init -y (makes package.json file)
+      tsc --init (makes tsconfig.json file)
 
 2.    installing dependencies (it makes package-lock.json file & node_modules folder)
 
